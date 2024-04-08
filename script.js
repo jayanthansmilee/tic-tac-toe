@@ -70,3 +70,4 @@ function restart() {
 }
 
 startGame()
+startGame()
